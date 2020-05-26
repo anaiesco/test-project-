@@ -1,0 +1,11 @@
+.padding img gallery
+{ 
+width:400px;
+height:400px;
+padding: 500px 500px 500px;
+border: 500px solid yellow;
+}
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
